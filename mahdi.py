@@ -27,7 +27,7 @@ pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 if pil in ["01", "1"]:
 
     os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs')
-    os.system('python mahdi.py')
+    os.system('python nikib.py')
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
